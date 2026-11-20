@@ -1,3 +1,11 @@
+<!-- ustj-doi -->
+# A Documentary History of the Nock Combinator Calculus
+
+N. E. Davis ~lagrev-nocfep, Curtis Yarvin ~sorreg-namtyv. *Urbit Systems Technical Journal* 2(1), 2025.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24389649.svg)](https://doi.org/10.5281/zenodo.24389649) [Read on urbitsystems.tech](https://urbitsystems.tech/article/v02-i01/a-documentary-history-of-the-nock-combinator-calculus)
+<!-- /ustj-doi -->
+
 # Urbit Systems Technical Journal—Template Repo
 
 Welcome, prospective USTJ author.  Please keep the following in mind:
